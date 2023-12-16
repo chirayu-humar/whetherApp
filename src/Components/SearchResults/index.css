@@ -1,0 +1,19 @@
+.resultElement{
+    width: 1000px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-style: solid;
+    border-radius: 10px;
+    margin-top: 5px;
+    background-color: green;
+    /* height: 40px; */
+    /* width: 200px; */
+    align-self: center;
+    
+}
+
+.temp{
+    background-color: red;
+    width: 30%;
+}
